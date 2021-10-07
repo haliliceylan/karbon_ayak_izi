@@ -1,19 +1,5 @@
 # karbon_ayak_izi
 
-<p align= "center" >
-  <img 
-       src = "https://github.com/elifbilgep/sims4hile/blob/master/assets/screenshots/sims2.png" alt ="">
-<br>
-
-</p>
-
-<br>
-<p align= "center" >
-  <img 
-       src = "https://github.com/elifbilgep/sims4hile/blob/master/assets/screenshots/sims3.png" alt ="">
-<br>
- 
-</p>
 
 <br>
 <p align= "center" >
@@ -46,8 +32,10 @@
 <br>
 
 </p>
-                      
-                      <br>
+                                                                                                  
+                                                                                                                                                                                       
+                                                                                                  
+<br>
 <p align= "center" >
   <img 
        src = "https://github.com/elifbilgep/karbon_ayak_izi/blob/master/assets/Teslim.jpg" alt ="">
