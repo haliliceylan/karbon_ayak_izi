@@ -1,16 +1,47 @@
 # karbon_ayak_izi
 
-A new Flutter project.
 
-## Getting Started
+<br>
+<p align= "center" >
+  <img 
+       src = "https://github.com/elifbilgep/karbon_ayak_izi/blob/master/assets/Anasayfa.jpg" alt ="">
+<br>
+  
+</p>
 
-This project is a starting point for a Flutter application.
+<br>
+<p align= "center" >
+  <img 
+       src = https://github.com/elifbilgep/karbon_ayak_izi/blob/master/assets/Giri%C5%9F.jpg" alt ="">
+<br>
+  
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<p align= "center" >
+  <img 
+       src = "https://github.com/elifbilgep/karbon_ayak_izi/blob/master/assets/Kat%20Detay.jpg" alt ="">
+<br>
+ 
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
+<p align= "center" >
+  <img 
+       src = "https://github.com/elifbilgep/karbon_ayak_izi/blob/master/assets/Profil.jpg" alt ="">
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
+                                                                                                  
+                                                                                                                                                                                       
+                                                                                                  
+<br>
+<p align= "center" >
+  <img 
+       src = "https://github.com/elifbilgep/karbon_ayak_izi/blob/master/assets/Teslim.jpg" alt ="">
+<br>
+
+</p>
+
+
+
