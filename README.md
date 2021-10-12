@@ -1,7 +1,12 @@
 # karbon_ayak_izi
 
+<h3>
+  Video: 
+  <a href="https://drive.google.com/file/d/1UBJJd1Tnnj_jTphM_N4d3IejIve0l4XF/view?usp=sharing">Link</a>
+</h3> 
 
-<br>
+
+
 <p align= "center" >
   <img 
        src = "https://github.com/elifbilgep/karbon_ayak_izi/blob/master/assets/Anasayfa.jpg" alt ="">
