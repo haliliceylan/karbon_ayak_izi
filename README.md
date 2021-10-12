@@ -1,4 +1,4 @@
-# karbon_ayak_izi
+# Karbon Ayak İzi
 
 <h3>
   Video: 
