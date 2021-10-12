@@ -1,11 +1,11 @@
 # karbon_ayak_izi
 
-<p>
+<h3>
   Video: 
   <a href="https://drive.google.com/file/d/1UBJJd1Tnnj_jTphM_N4d3IejIve0l4XF/view?usp=sharing">Link</a>
-</p> 
+</h3> 
 
-<a href="https://drive.google.com/file/d/1UBJJd1Tnnj_jTphM_N4d3IejIve0l4XF/view?usp=sharing">Link</a>
+
 
 <p align= "center" >
   <img 
