@@ -1,8 +1,8 @@
 # karbon_ayak_izi
 
-<h2>
+<p>
   Video
-</h2>  
+</p> 
 
 <a href="https://drive.google.com/file/d/1UBJJd1Tnnj_jTphM_N4d3IejIve0l4XF/view?usp=sharing">Link</a>
 
