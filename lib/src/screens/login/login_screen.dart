@@ -14,7 +14,16 @@ class LoginScreen extends StatelessWidget {
           children: [
             BuildBackground(),
             LoginCard(),
-            RoundedButton(),
+            Positioned(
+              top: 580,
+              left: 135,
+              child: RoundedButton(
+                onPressed: () {
+                  Navigator.pushNamed(context, "/");
+                },
+                buttonName: "GİRİŞ",
+              ),
+            ),
           ],
         ));
   }

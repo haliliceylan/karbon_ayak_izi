@@ -3,7 +3,8 @@ import 'package:feather_icons/feather_icons.dart';
 import 'package:flutter/material.dart';
 
 class FloatingButton extends StatelessWidget {
-  const FloatingButton({Key key}) : super(key: key);
+  const FloatingButton({Key key, this.onPressed}) : super(key: key);
+  final Function onPressed;
 
   @override
   Widget build(BuildContext context) {
@@ -11,7 +12,7 @@ class FloatingButton extends StatelessWidget {
       height: 60,
       width: 60,
       child: FloatingActionButton(
-        onPressed: () {},
+        onPressed: onPressed,
         backgroundColor: Colors.white,
         child: Icon(
           FeatherIcons.check,

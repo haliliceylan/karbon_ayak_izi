@@ -8,7 +8,7 @@ class BuildDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Theme(
-      data: Theme.of(context).copyWith(primaryColor: green3),
+      data: Theme.of(context).copyWith(primaryColor: Colors.grey.shade300),
       child: Drawer(
         elevation: 20,
         child: ListView(
@@ -30,7 +30,7 @@ class BuildDrawer extends StatelessWidget {
               trailing: Icon(FeatherIcons.logOut),
               title: const Text('ÇIKIŞ YAP'),
               onTap: () {
-                Navigator.pop(context);
+                Navigator.pushNamed(context, "/login");
               },
             ),
           ],

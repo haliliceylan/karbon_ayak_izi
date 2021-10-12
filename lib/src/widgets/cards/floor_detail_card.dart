@@ -6,7 +6,7 @@ class FloorDetailCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(left: 30.0, right: 30, bottom: 30),
+      padding: const EdgeInsets.only(left: 30.0, right: 30, top: 10),
       child: Container(
         width: 170,
         height: 100,

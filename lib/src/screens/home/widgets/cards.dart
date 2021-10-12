@@ -4,15 +4,24 @@ import 'package:flutter/material.dart';
 class Cards extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return ListView.builder(
-      itemCount: 3,
-      itemBuilder: (context, index) {
-        return HomeCard(
+    return ListView(
+      children: [
+        InkWell(
+          onTap: () {
+            Navigator.pushNamed(context, "/floorDetail");
+          },
+          child: HomeCard(
+            facultyName: "Mühendislik Fakültesi",
+            blocName: "A Blok",
+            floorName: "2.kat",
+          ),
+        ),
+        HomeCard(
           facultyName: "Mühendislik Fakültesi",
-          blocName: "A blok",
-          floorName: "2.kat",
-        );
-      },
+          blocName: "F Blok",
+          floorName: "3.kat",
+        ),
+      ],
     );
   }
 }

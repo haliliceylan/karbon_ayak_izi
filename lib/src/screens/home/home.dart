@@ -10,7 +10,11 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      floatingActionButton: FloatingButton(),
+      floatingActionButton: FloatingButton(
+        onPressed: () {
+          Navigator.pushNamed(context, "/delivery");
+        },
+      ),
       backgroundColor: Colors.transparent,
       appBar: AppBar(
         title: Text(
