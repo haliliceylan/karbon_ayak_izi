@@ -1,6 +1,6 @@
 import 'package:codelab_1/src/core/constant/color_hex.dart';
 import 'package:flutter/material.dart';
-import '../../core/constant/size.dart';
+import '../../core/extensions/size_extension.dart';
 import 'package:feather_icons/feather_icons.dart';
 
 class LoginCard extends StatelessWidget {
@@ -65,6 +65,13 @@ class LoginCard extends StatelessWidget {
                         enabledBorder: UnderlineInputBorder(
                             borderSide: BorderSide(color: dark))),
                   ),
+                  SizedBox(
+                    height: 10,
+                  ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    children: [Text("Forgot Password")],
+                  )
                 ],
               ),
             ),

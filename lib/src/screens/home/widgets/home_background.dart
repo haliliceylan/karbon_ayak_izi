@@ -1,27 +1,17 @@
-import 'package:codelab_1/src/core/constant/color_hex.dart';
 import 'package:flutter/material.dart';
-import '../../../core/constant/size.dart';
+import '../../../core/extensions/size_extension.dart';
 
+class HomeBackground extends StatelessWidget {
+  const HomeBackground({Key key}) : super(key: key);
 
-class BuildBackground extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: [
-        Container(
-          height: context.dynamicHeight(0.5),
-          width: context.width,
-          child: Image.asset(
-            "assets/images/home_background.jpg",
-            fit: BoxFit.cover,
-          ),
-        ),
-        Container(
-          height: context.dynamicHeight(0.5),
-          width: context.width,
-          color: green2,
-        ),
-      ],
+    return Container(
+      height: context.height,
+      decoration: BoxDecoration(
+          image: DecorationImage(
+              image: AssetImage("assets/images/home_bg.jpg"),
+              fit: BoxFit.cover)),
     );
   }
 }
